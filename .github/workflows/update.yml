@@ -1,0 +1,36 @@
+name: Update IPTV
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'   # 每6小时更新一次
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Download IPTV
+        run: |
+          curl -L \
+          -A "Mozilla/5.0" \
+          "https://tv.wenae.dpdns.org/iptv" \
+          -o iptv.m3u
+
+      - name: Commit Changes
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+
+          git add iptv.m3u
+
+          git diff --cached --quiet || (
+            git commit -m "Auto Update IPTV"
+            git push
+          )
