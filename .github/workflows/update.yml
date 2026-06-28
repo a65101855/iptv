@@ -2,7 +2,7 @@ name: Update IPTV
 
 于:
   schedule:
-    - cron: '0 */6 * * *'
+    - cron: '0 */6 * * *'   # 每6小时更新一次
   workflow_dispatch:
 
 permissions:
@@ -13,19 +13,24 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v5
+      - name: Checkout
+        uses: actions/checkout@v5
 
       - name: Download IPTV
         run: |
-          curl -L "${{ secrets.IPTV_URL }}" -o iptv.m3u
+          curl -L \
+          -A "Mozilla/5.0" \
+          "${{ secrets.IPTV_URL }}" \
+          -o iptv.m3u
 
-      - name: Commit
+      - name: Commit Changes
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
 
           git add iptv.m3u
-          git diff --quiet && git diff --staged --quiet || (
-            git commit -m "Update IPTV"
+
+          git diff --cached --quiet || (
+            git commit -m "Auto Update IPTV"
             git push
           )
