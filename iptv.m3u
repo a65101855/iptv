@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://epg.zsdc.eu.org/t.xml"
-#EXT-X-UPDATED: 2026-08-03 18:01:11
-#EXTINF:-1 group-title="Update",更新时间: 2026-08-03 18:01:11
+#EXT-X-UPDATED: 2026-08-04 00:04:26
+#EXTINF:-1 group-title="Update",更新时间: 2026-08-04 00:04:26
 http://127.0.0.1/
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/CCTV1.png" group-title="IPTV",CCTV1
 http://192.168.1.4:5000/live?channel=CCTV1
@@ -10,10 +10,10 @@ http://192.168.1.4:5000/live?channel=CCTV2
 http://192.168.1.4:5000/live?channel=CCTV3
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/CCTV4.png" group-title="IPTV",CCTV4
 http://192.168.1.4:5000/live?channel=CCTV4
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/CCTV5%2B.png" group-title="IPTV",CCTV5+
-http://192.168.1.4:5000/live?channel=CCTV5%2B
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/CCTV5.png" group-title="IPTV",CCTV5
 http://192.168.1.4:5000/live?channel=CCTV5
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/CCTV5%2B.png" group-title="IPTV",CCTV5+
+http://192.168.1.4:5000/live?channel=CCTV5%2B
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/CCTV6.png" group-title="IPTV",CCTV6
 http://192.168.1.4:5000/live?channel=CCTV6
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/CCTV7.png" group-title="IPTV",CCTV7
@@ -38,12 +38,14 @@ http://192.168.1.4:5000/live?channel=CCTV15
 http://192.168.1.4:5000/live?channel=CCTV16
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/CCTV17.png" group-title="IPTV",CCTV17
 http://192.168.1.4:5000/live?channel=CCTV17
+#EXTINF:-1 tvg-name="CCTV少儿" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/CCTV%E5%B0%91%E5%84%BF.png" group-title="IPTV",CCTV少儿
+http://192.168.1.4:5000/live?channel=CCTV%E5%B0%91%E5%84%BF
+#EXTINF:-1 tvg-name="CCTVNEWS" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/CCTVNEWS.png" group-title="IPTV",CCTVNEWS
+http://192.168.1.4:5000/live?channel=CCTVNEWS
 #EXTINF:-1 tvg-name="BTV北京卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/BTV%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86.png" group-title="IPTV",BTV北京卫视
 http://192.168.1.4:5000/live?channel=BTV%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86
 #EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E4%B8%89%E6%B2%99%E5%8D%AB%E8%A7%86.png" group-title="IPTV",三沙卫视
 http://192.168.1.4:5000/live?channel=%E4%B8%89%E6%B2%99%E5%8D%AB%E8%A7%86
-#EXTINF:-1 tvg-name="上海东方卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E4%B8%8A%E6%B5%B7%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86.png" group-title="IPTV",上海东方卫视
-http://192.168.1.4:5000/live?channel=%E4%B8%8A%E6%B5%B7%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86
 #EXTINF:-1 tvg-name="上海卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E4%B8%8A%E6%B5%B7%E5%8D%AB%E8%A7%86.png" group-title="IPTV",上海卫视
 http://192.168.1.4:5000/live?channel=%E4%B8%8A%E6%B5%B7%E5%8D%AB%E8%A7%86
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="IPTV",东南卫视
@@ -56,8 +58,6 @@ http://192.168.1.4:5000/live?channel=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86%E4%B8%
 http://192.168.1.4:5000/live?channel=%E4%BA%91%E5%8D%97%E5%8D%AB%E8%A7%86
 #EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E5%85%B5%E5%9B%A2%E5%8D%AB%E8%A7%86.png" group-title="IPTV",兵团卫视
 http://192.168.1.4:5000/live?channel=%E5%85%B5%E5%9B%A2%E5%8D%AB%E8%A7%86
-#EXTINF:-1 tvg-name="内蒙卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E5%86%85%E8%92%99%E5%8D%AB%E8%A7%86.png" group-title="IPTV",内蒙卫视
-http://192.168.1.4:5000/live?channel=%E5%86%85%E8%92%99%E5%8D%AB%E8%A7%86
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86.png" group-title="IPTV",内蒙古卫视
 http://192.168.1.4:5000/live?channel=%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86
 #EXTINF:-1 tvg-name="农林卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E5%86%9C%E6%9E%97%E5%8D%AB%E8%A7%86.png" group-title="IPTV",农林卫视
@@ -86,8 +86,6 @@ http://192.168.1.4:5000/live?channel=%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86
 http://192.168.1.4:5000/live?channel=%E5%B0%91%E5%84%BF%E5%8D%AB%E8%A7%86
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86.png" group-title="IPTV",山东卫视
 http://192.168.1.4:5000/live?channel=%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86
-#EXTINF:-1 tvg-name="山东教育卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E5%B1%B1%E4%B8%9C%E6%95%99%E8%82%B2%E5%8D%AB%E8%A7%86.png" group-title="IPTV",山东教育卫视
-http://192.168.1.4:5000/live?channel=%E5%B1%B1%E4%B8%9C%E6%95%99%E8%82%B2%E5%8D%AB%E8%A7%86
 #EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E5%B1%B1%E8%A5%BF%E5%8D%AB%E8%A7%86.png" group-title="IPTV",山西卫视
 http://192.168.1.4:5000/live?channel=%E5%B1%B1%E8%A5%BF%E5%8D%AB%E8%A7%86
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86.png" group-title="IPTV",广东卫视
@@ -126,8 +124,6 @@ http://192.168.1.4:5000/live?channel=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86
 http://192.168.1.4:5000/live?channel=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86
 #EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86.png" group-title="IPTV",甘肃卫视
 http://192.168.1.4:5000/live?channel=%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86
-#EXTINF:-1 tvg-name="福建卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E7%A6%8F%E5%BB%BA%E5%8D%AB%E8%A7%86.png" group-title="IPTV",福建卫视
-http://192.168.1.4:5000/live?channel=%E7%A6%8F%E5%BB%BA%E5%8D%AB%E8%A7%86
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86.png" group-title="IPTV",西藏卫视
 http://192.168.1.4:5000/live?channel=%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86
 #EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E8%B4%B5%E5%B7%9E%E5%8D%AB%E8%A7%86.png" group-title="IPTV",贵州卫视
@@ -180,6 +176,8 @@ http://192.168.1.4:5000/live?channel=CETV1%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B21
 http://192.168.1.4:5000/live?channel=CETV2
 #EXTINF:-1 tvg-name="CETV4" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/CETV4.png" group-title="IPTV",CETV4
 http://192.168.1.4:5000/live?channel=CETV4
+#EXTINF:-1 tvg-name="CETVInternet" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/CETVInternet.png" group-title="IPTV",CETVInternet
+http://192.168.1.4:5000/live?channel=CETVInternet
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/CGTN.png" group-title="IPTV",CGTN
 http://192.168.1.4:5000/live?channel=CGTN
 #EXTINF:-1 tvg-name="CGTN英语" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/CGTN%E8%8B%B1%E8%AF%AD.png" group-title="IPTV",CGTN英语
@@ -200,6 +198,8 @@ http://192.168.1.4:5000/live?channel=DTV3
 http://192.168.1.4:5000/live?channel=DTV4%E7%89%9B%E5%93%A5
 #EXTINF:-1 tvg-name="GGTN" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/GGTN.png" group-title="IPTV",GGTN
 http://192.168.1.4:5000/live?channel=GGTN
+#EXTINF:-1 tvg-name="IPTV8" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/IPTV8.png" group-title="IPTV",IPTV8
+http://192.168.1.4:5000/live?channel=IPTV8
 #EXTINF:-1 tvg-name="OTV6" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/OTV6.png" group-title="IPTV",OTV6
 http://192.168.1.4:5000/live?channel=OTV6
 #EXTINF:-1 tvg-name="QTV1" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/QTV1.png" group-title="IPTV",QTV1
@@ -286,12 +286,26 @@ http://192.168.1.4:5000/live?channel=%E5%85%B0%E5%B7%9E%E6%97%85%E6%B8%B8
 http://192.168.1.4:5000/live?channel=%E5%85%B5%E5%99%A8%E7%A7%91%E6%8A%80
 #EXTINF:-1 tvg-name="兵团卫" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E5%85%B5%E5%9B%A2%E5%8D%AB.png" group-title="IPTV",兵团卫
 http://192.168.1.4:5000/live?channel=%E5%85%B5%E5%9B%A2%E5%8D%AB
+#EXTINF:-1 tvg-name="内蒙古农牧" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E5%86%85%E8%92%99%E5%8F%A4%E5%86%9C%E7%89%A7.png" group-title="IPTV",内蒙古农牧
+http://192.168.1.4:5000/live?channel=%E5%86%85%E8%92%99%E5%8F%A4%E5%86%9C%E7%89%A7
+#EXTINF:-1 tvg-name="内蒙古少儿" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E5%86%85%E8%92%99%E5%8F%A4%E5%B0%91%E5%84%BF.png" group-title="IPTV",内蒙古少儿
+http://192.168.1.4:5000/live?channel=%E5%86%85%E8%92%99%E5%8F%A4%E5%B0%91%E5%84%BF
+#EXTINF:-1 tvg-name="内蒙古文体娱乐" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E5%86%85%E8%92%99%E5%8F%A4%E6%96%87%E4%BD%93%E5%A8%B1%E4%B9%90.png" group-title="IPTV",内蒙古文体娱乐
+http://192.168.1.4:5000/live?channel=%E5%86%85%E8%92%99%E5%8F%A4%E6%96%87%E4%BD%93%E5%A8%B1%E4%B9%90
+#EXTINF:-1 tvg-name="内蒙古新闻综合" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E5%86%85%E8%92%99%E5%8F%A4%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88.png" group-title="IPTV",内蒙古新闻综合
+http://192.168.1.4:5000/live?channel=%E5%86%85%E8%92%99%E5%8F%A4%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88
+#EXTINF:-1 tvg-name="内蒙古经济生活" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E5%86%85%E8%92%99%E5%8F%A4%E7%BB%8F%E6%B5%8E%E7%94%9F%E6%B4%BB.png" group-title="IPTV",内蒙古经济生活
+http://192.168.1.4:5000/live?channel=%E5%86%85%E8%92%99%E5%8F%A4%E7%BB%8F%E6%B5%8E%E7%94%9F%E6%B4%BB
+#EXTINF:-1 tvg-name="内蒙古蒙古文化" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E5%86%85%E8%92%99%E5%8F%A4%E8%92%99%E5%8F%A4%E6%96%87%E5%8C%96.png" group-title="IPTV",内蒙古蒙古文化
+http://192.168.1.4:5000/live?channel=%E5%86%85%E8%92%99%E5%8F%A4%E8%92%99%E5%8F%A4%E6%96%87%E5%8C%96
 #EXTINF:-1 tvg-name="军事" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E5%86%9B%E4%BA%8B.png" group-title="IPTV",军事
 http://192.168.1.4:5000/live?channel=%E5%86%9B%E4%BA%8B
 #EXTINF:-1 tvg-name="军旅剧场" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E5%86%9B%E6%97%85%E5%89%A7%E5%9C%BA.png" group-title="IPTV",军旅剧场
 http://192.168.1.4:5000/live?channel=%E5%86%9B%E6%97%85%E5%89%A7%E5%9C%BA
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E5%87%A4%E5%87%B0%E4%B8%AD%E6%96%87.png" group-title="IPTV",凤凰中文
 http://192.168.1.4:5000/live?channel=%E5%87%A4%E5%87%B0%E4%B8%AD%E6%96%87
+#EXTINF:-1 tvg-name="凤凰影视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E5%87%A4%E5%87%B0%E5%BD%B1%E8%A7%86.png" group-title="IPTV",凤凰影视
+http://192.168.1.4:5000/live?channel=%E5%87%A4%E5%87%B0%E5%BD%B1%E8%A7%86
 #EXTINF:-1 tvg-name="凤凰时政" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E5%87%A4%E5%87%B0%E6%97%B6%E6%94%BF.png" group-title="IPTV",凤凰时政
 http://192.168.1.4:5000/live?channel=%E5%87%A4%E5%87%B0%E6%97%B6%E6%94%BF
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF.png" group-title="IPTV",凤凰资讯
@@ -312,10 +326,8 @@ http://192.168.1.4:5000/live?channel=%E5%8A%A8%E7%94%BB
 http://192.168.1.4:5000/live?channel=%E5%8A%B2%E7%88%86%E4%BD%93%E8%82%B2
 #EXTINF:-1 tvg-name="北流台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E5%8C%97%E6%B5%81%E5%8F%B0.png" group-title="IPTV",北流台
 http://192.168.1.4:5000/live?channel=%E5%8C%97%E6%B5%81%E5%8F%B0
-#EXTINF:-1 tvg-name="南充科教" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E5%8D%97%E5%85%85%E7%A7%91%E6%95%99.png" group-title="IPTV",南充科教
-http://192.168.1.4:5000/live?channel=%E5%8D%97%E5%85%85%E7%A7%91%E6%95%99
-#EXTINF:-1 tvg-name="南充综合" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E5%8D%97%E5%85%85%E7%BB%BC%E5%90%88.png" group-title="IPTV",南充综合
-http://192.168.1.4:5000/live?channel=%E5%8D%97%E5%85%85%E7%BB%BC%E5%90%88
+#EXTINF:-1 tvg-name="北海经济科教" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E5%8C%97%E6%B5%B7%E7%BB%8F%E6%B5%8E%E7%A7%91%E6%95%99.png" group-title="IPTV",北海经济科教
+http://192.168.1.4:5000/live?channel=%E5%8C%97%E6%B5%B7%E7%BB%8F%E6%B5%8E%E7%A7%91%E6%95%99
 #EXTINF:-1 tvg-name="南宁公共" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E5%8D%97%E5%AE%81%E5%85%AC%E5%85%B1.png" group-title="IPTV",南宁公共
 http://192.168.1.4:5000/live?channel=%E5%8D%97%E5%AE%81%E5%85%AC%E5%85%B1
 #EXTINF:-1 tvg-name="南宁影视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E5%8D%97%E5%AE%81%E5%BD%B1%E8%A7%86.png" group-title="IPTV",南宁影视
@@ -328,6 +340,8 @@ http://192.168.1.4:5000/live?channel=%E5%8D%97%E6%96%B9%E4%BA%94
 http://192.168.1.4:5000/live?channel=%E5%8D%A1%E9%85%B7%E5%8A%A8%E6%BC%AB
 #EXTINF:-1 tvg-name="卡酷动画" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E5%8D%A1%E9%85%B7%E5%8A%A8%E7%94%BB.png" group-title="IPTV",卡酷动画
 http://192.168.1.4:5000/live?channel=%E5%8D%A1%E9%85%B7%E5%8A%A8%E7%94%BB
+#EXTINF:-1 tvg-name="卡酷卡通" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E5%8D%A1%E9%85%B7%E5%8D%A1%E9%80%9A.png" group-title="IPTV",卡酷卡通
+http://192.168.1.4:5000/live?channel=%E5%8D%A1%E9%85%B7%E5%8D%A1%E9%80%9A
 #EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E5%8D%A1%E9%85%B7%E5%B0%91%E5%84%BF.png" group-title="IPTV",卡酷少儿
 http://192.168.1.4:5000/live?channel=%E5%8D%A1%E9%85%B7%E5%B0%91%E5%84%BF
 #EXTINF:-1 tvg-name="卫生健康" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E5%8D%AB%E7%94%9F%E5%81%A5%E5%BA%B7.png" group-title="IPTV",卫生健康
@@ -358,20 +372,8 @@ http://192.168.1.4:5000/live?channel=%E5%93%88%E5%93%88%E7%82%AB%E5%8A%A8
 http://192.168.1.4:5000/live?channel=%E5%96%9C%E5%89%A7%E5%BD%B1%E9%99%A2
 #EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E5%98%89%E4%BD%B3%E5%8D%A1%E9%80%9A.png" group-title="IPTV",嘉佳卡通
 http://192.168.1.4:5000/live?channel=%E5%98%89%E4%BD%B3%E5%8D%A1%E9%80%9A
-#EXTINF:-1 tvg-name="四川七台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E5%9B%9B%E5%B7%9D%E4%B8%83%E5%8F%B0.png" group-title="IPTV",四川七台
-http://192.168.1.4:5000/live?channel=%E5%9B%9B%E5%B7%9D%E4%B8%83%E5%8F%B0
 #EXTINF:-1 tvg-name="四川乡村" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E5%9B%9B%E5%B7%9D%E4%B9%A1%E6%9D%91.png" group-title="IPTV",四川乡村
 http://192.168.1.4:5000/live?channel=%E5%9B%9B%E5%B7%9D%E4%B9%A1%E6%9D%91
-#EXTINF:-1 tvg-name="四川文旅" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E5%9B%9B%E5%B7%9D%E6%96%87%E6%97%85.png" group-title="IPTV",四川文旅
-http://192.168.1.4:5000/live?channel=%E5%9B%9B%E5%B7%9D%E6%96%87%E6%97%85
-#EXTINF:-1 tvg-name="四川文艺" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E5%9B%9B%E5%B7%9D%E6%96%87%E8%89%BA.png" group-title="IPTV",四川文艺
-http://192.168.1.4:5000/live?channel=%E5%9B%9B%E5%B7%9D%E6%96%87%E8%89%BA
-#EXTINF:-1 tvg-name="四川新闻" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E5%9B%9B%E5%B7%9D%E6%96%B0%E9%97%BB.png" group-title="IPTV",四川新闻
-http://192.168.1.4:5000/live?channel=%E5%9B%9B%E5%B7%9D%E6%96%B0%E9%97%BB
-#EXTINF:-1 tvg-name="四川科教" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E5%9B%9B%E5%B7%9D%E7%A7%91%E6%95%99.png" group-title="IPTV",四川科教
-http://192.168.1.4:5000/live?channel=%E5%9B%9B%E5%B7%9D%E7%A7%91%E6%95%99
-#EXTINF:-1 tvg-name="四川经济" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E5%9B%9B%E5%B7%9D%E7%BB%8F%E6%B5%8E.png" group-title="IPTV",四川经济
-http://192.168.1.4:5000/live?channel=%E5%9B%9B%E5%B7%9D%E7%BB%8F%E6%B5%8E
 #EXTINF:-1 tvg-name="四海钓鱼" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E5%9B%9B%E6%B5%B7%E9%92%93%E9%B1%BC.png" group-title="IPTV",四海钓鱼
 http://192.168.1.4:5000/live?channel=%E5%9B%9B%E6%B5%B7%E9%92%93%E9%B1%BC
 #EXTINF:-1 tvg-name="国学" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E5%9B%BD%E5%AD%A6.png" group-title="IPTV",国学
@@ -384,6 +386,8 @@ http://192.168.1.4:5000/live?channel=%E5%9C%B0%E7%90%86
 http://192.168.1.4:5000/live?channel=%E5%9C%B0%E7%90%86%E4%B8%96%E7%95%8C
 #EXTINF:-1 tvg-name="城市剧场" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E5%9F%8E%E5%B8%82%E5%89%A7%E5%9C%BA.png" group-title="IPTV",城市剧场
 http://192.168.1.4:5000/live?channel=%E5%9F%8E%E5%B8%82%E5%89%A7%E5%9C%BA
+#EXTINF:-1 tvg-name="城步综合" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E5%9F%8E%E6%AD%A5%E7%BB%BC%E5%90%88.png" group-title="IPTV",城步综合
+http://192.168.1.4:5000/live?channel=%E5%9F%8E%E6%AD%A5%E7%BB%BC%E5%90%88
 #EXTINF:-1 tvg-name="墨宝" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E5%A2%A8%E5%AE%9D.png" group-title="IPTV",墨宝
 http://192.168.1.4:5000/live?channel=%E5%A2%A8%E5%AE%9D
 #EXTINF:-1 tvg-name="天元围棋" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E5%A4%A9%E5%85%83%E5%9B%B4%E6%A3%8B.png" group-title="IPTV",天元围棋
@@ -392,6 +396,8 @@ http://192.168.1.4:5000/live?channel=%E5%A4%A9%E5%85%83%E5%9B%B4%E6%A3%8B
 http://192.168.1.4:5000/live?channel=%E5%A4%A9%E6%98%A0
 #EXTINF:-1 tvg-name="天映经典" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E5%A4%A9%E6%98%A0%E7%BB%8F%E5%85%B8.png" group-title="IPTV",天映经典
 http://192.168.1.4:5000/live?channel=%E5%A4%A9%E6%98%A0%E7%BB%8F%E5%85%B8
+#EXTINF:-1 tvg-name="天气预报" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5.png" group-title="IPTV",天气预报
+http://192.168.1.4:5000/live?channel=%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5
 #EXTINF:-1 tvg-name="央视台球" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E5%A4%AE%E8%A7%86%E5%8F%B0%E7%90%83.png" group-title="IPTV",央视台球
 http://192.168.1.4:5000/live?channel=%E5%A4%AE%E8%A7%86%E5%8F%B0%E7%90%83
 #EXTINF:-1 tvg-name="央视文化精品" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E5%A4%AE%E8%A7%86%E6%96%87%E5%8C%96%E7%B2%BE%E5%93%81.png" group-title="IPTV",央视文化精品
@@ -404,6 +410,8 @@ http://192.168.1.4:5000/live?channel=%E5%A5%B3%E6%80%A7%E6%97%B6%E5%B0%9A
 http://192.168.1.4:5000/live?channel=%E5%A5%BD%E5%AD%A6%E7%94%9F
 #EXTINF:-1 tvg-name="娄底台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E5%A8%84%E5%BA%95%E5%8F%B0.png" group-title="IPTV",娄底台
 http://192.168.1.4:5000/live?channel=%E5%A8%84%E5%BA%95%E5%8F%B0
+#EXTINF:-1 tvg-name="娄底综合" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E5%A8%84%E5%BA%95%E7%BB%BC%E5%90%88.png" group-title="IPTV",娄底综合
+http://192.168.1.4:5000/live?channel=%E5%A8%84%E5%BA%95%E7%BB%BC%E5%90%88
 #EXTINF:-1 tvg-name="安徽公共" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E5%AE%89%E5%BE%BD%E5%85%AC%E5%85%B1.png" group-title="IPTV",安徽公共
 http://192.168.1.4:5000/live?channel=%E5%AE%89%E5%BE%BD%E5%85%AC%E5%85%B1
 #EXTINF:-1 tvg-name="安徽影视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E5%AE%89%E5%BE%BD%E5%BD%B1%E8%A7%86.png" group-title="IPTV",安徽影视
@@ -412,8 +420,6 @@ http://192.168.1.4:5000/live?channel=%E5%AE%89%E5%BE%BD%E5%BD%B1%E8%A7%86
 http://192.168.1.4:5000/live?channel=%E5%AE%89%E5%BE%BD%E7%A7%91%E6%95%99
 #EXTINF:-1 tvg-name="安徽经济" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E5%AE%89%E5%BE%BD%E7%BB%8F%E6%B5%8E.png" group-title="IPTV",安徽经济
 http://192.168.1.4:5000/live?channel=%E5%AE%89%E5%BE%BD%E7%BB%8F%E6%B5%8E
-#EXTINF:-1 tvg-name="安徽经视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E5%AE%89%E5%BE%BD%E7%BB%8F%E8%A7%86.png" group-title="IPTV",安徽经视
-http://192.168.1.4:5000/live?channel=%E5%AE%89%E5%BE%BD%E7%BB%8F%E8%A7%86
 #EXTINF:-1 tvg-name="安徽综艺" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E5%AE%89%E5%BE%BD%E7%BB%BC%E8%89%BA.png" group-title="IPTV",安徽综艺
 http://192.168.1.4:5000/live?channel=%E5%AE%89%E5%BE%BD%E7%BB%BC%E8%89%BA
 #EXTINF:-1 tvg-name="宣城公共" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E5%AE%A3%E5%9F%8E%E5%85%AC%E5%85%B1.png" group-title="IPTV",宣城公共
@@ -452,12 +458,16 @@ http://192.168.1.4:5000/live?channel=%E5%B1%B1%E4%B8%9C%E7%BB%BC%E8%89%BA
 http://192.168.1.4:5000/live?channel=%E5%B1%B1%E6%AD%8C
 #EXTINF:-1 tvg-name="岭南戏曲" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E5%B2%AD%E5%8D%97%E6%88%8F%E6%9B%B2.png" group-title="IPTV",岭南戏曲
 http://192.168.1.4:5000/live?channel=%E5%B2%AD%E5%8D%97%E6%88%8F%E6%9B%B2
+#EXTINF:-1 tvg-name="岳阳公共" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E5%B2%B3%E9%98%B3%E5%85%AC%E5%85%B1.png" group-title="IPTV",岳阳公共
+http://192.168.1.4:5000/live?channel=%E5%B2%B3%E9%98%B3%E5%85%AC%E5%85%B1
 #EXTINF:-1 tvg-name="岳阳台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E5%B2%B3%E9%98%B3%E5%8F%B0.png" group-title="IPTV",岳阳台
 http://192.168.1.4:5000/live?channel=%E5%B2%B3%E9%98%B3%E5%8F%B0
-#EXTINF:-1 tvg-name="峨眉电影" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E5%B3%A8%E7%9C%89%E7%94%B5%E5%BD%B1.png" group-title="IPTV",峨眉电影
-http://192.168.1.4:5000/live?channel=%E5%B3%A8%E7%9C%89%E7%94%B5%E5%BD%B1
+#EXTINF:-1 tvg-name="岳阳综合" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E5%B2%B3%E9%98%B3%E7%BB%BC%E5%90%88.png" group-title="IPTV",岳阳综合
+http://192.168.1.4:5000/live?channel=%E5%B2%B3%E9%98%B3%E7%BB%BC%E5%90%88
 #EXTINF:-1 tvg-name="常德台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E5%B8%B8%E5%BE%B7%E5%8F%B0.png" group-title="IPTV",常德台
 http://192.168.1.4:5000/live?channel=%E5%B8%B8%E5%BE%B7%E5%8F%B0
+#EXTINF:-1 tvg-name="常德综合" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E5%B8%B8%E5%BE%B7%E7%BB%BC%E5%90%88.png" group-title="IPTV",常德综合
+http://192.168.1.4:5000/live?channel=%E5%B8%B8%E5%BE%B7%E7%BB%BC%E5%90%88
 #EXTINF:-1 tvg-name="平南台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E5%B9%B3%E5%8D%97%E5%8F%B0.png" group-title="IPTV",平南台
 http://192.168.1.4:5000/live?channel=%E5%B9%B3%E5%8D%97%E5%8F%B0
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E5%B9%BF%E4%B8%9C%E4%BD%93%E8%82%B2.png" group-title="IPTV",广东体育
@@ -512,6 +522,12 @@ http://192.168.1.4:5000/live?channel=%E5%BC%A0%E5%AE%B6%E5%8F%A3%E5%85%AC%E5%85%
 http://192.168.1.4:5000/live?channel=%E5%BC%A0%E5%AE%B6%E5%8F%A3%E6%96%B0%E9%97%BB
 #EXTINF:-1 tvg-name="张家界" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E5%BC%A0%E5%AE%B6%E7%95%8C.png" group-title="IPTV",张家界
 http://192.168.1.4:5000/live?channel=%E5%BC%A0%E5%AE%B6%E7%95%8C
+#EXTINF:-1 tvg-name="张家界综合" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E5%BC%A0%E5%AE%B6%E7%95%8C%E7%BB%BC%E5%90%88.png" group-title="IPTV",张家界综合
+http://192.168.1.4:5000/live?channel=%E5%BC%A0%E5%AE%B6%E7%95%8C%E7%BB%BC%E5%90%88
+#EXTINF:-1 tvg-name="强盛城市海岸" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E5%BC%BA%E7%9B%9B%E5%9F%8E%E5%B8%82%E6%B5%B7%E5%B2%B8.png" group-title="IPTV",强盛城市海岸
+http://192.168.1.4:5000/live?channel=%E5%BC%BA%E7%9B%9B%E5%9F%8E%E5%B8%82%E6%B5%B7%E5%B2%B8
+#EXTINF:-1 tvg-name="影迷电影" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1.png" group-title="IPTV",影迷电影
+http://192.168.1.4:5000/live?channel=%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1
 #EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E5%BF%AB%E4%B9%90%E5%9E%82%E9%92%93.png" group-title="IPTV",快乐垂钓
 http://192.168.1.4:5000/live?channel=%E5%BF%AB%E4%B9%90%E5%9E%82%E9%92%93
 #EXTINF:-1 tvg-name="快乐购" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E5%BF%AB%E4%B9%90%E8%B4%AD.png" group-title="IPTV",快乐购
@@ -534,6 +550,8 @@ http://192.168.1.4:5000/live?channel=%E6%95%99%E8%82%B2%E4%B8%80%E5%A5%97
 http://192.168.1.4:5000/live?channel=%E6%96%87%E6%97%85
 #EXTINF:-1 tvg-name="文物宝库" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E6%96%87%E7%89%A9%E5%AE%9D%E5%BA%93.png" group-title="IPTV",文物宝库
 http://192.168.1.4:5000/live?channel=%E6%96%87%E7%89%A9%E5%AE%9D%E5%BA%93
+#EXTINF:-1 tvg-name="新动漫" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E6%96%B0%E5%8A%A8%E6%BC%AB.png" group-title="IPTV",新动漫
+http://192.168.1.4:5000/live?channel=%E6%96%B0%E5%8A%A8%E6%BC%AB
 #EXTINF:-1 tvg-name="新宁综合" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E6%96%B0%E5%AE%81%E7%BB%BC%E5%90%88.png" group-title="IPTV",新宁综合
 http://192.168.1.4:5000/live?channel=%E6%96%B0%E5%AE%81%E7%BB%BC%E5%90%88
 #EXTINF:-1 tvg-name="新疆1" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E6%96%B0%E7%96%861.png" group-title="IPTV",新疆1
@@ -562,10 +580,10 @@ http://192.168.1.4:5000/live?channel=%E6%97%A9%E6%95%99
 http://192.168.1.4:5000/live?channel=%E6%97%B6%E5%B0%9A%E8%B4%AD%E7%89%A9
 #EXTINF:-1 tvg-name="有线电视娱乐" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E6%9C%89%E7%BA%BF%E7%94%B5%E8%A7%86%E5%A8%B1%E4%B9%90.png" group-title="IPTV",有线电视娱乐
 http://192.168.1.4:5000/live?channel=%E6%9C%89%E7%BA%BF%E7%94%B5%E8%A7%86%E5%A8%B1%E4%B9%90
+#EXTINF:-1 tvg-name="望城综合" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E6%9C%9B%E5%9F%8E%E7%BB%BC%E5%90%88.png" group-title="IPTV",望城综合
+http://192.168.1.4:5000/live?channel=%E6%9C%9B%E5%9F%8E%E7%BB%BC%E5%90%88
 #EXTINF:-1 tvg-name="本港台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E6%9C%AC%E6%B8%AF%E5%8F%B0.png" group-title="IPTV",本港台
 http://192.168.1.4:5000/live?channel=%E6%9C%AC%E6%B8%AF%E5%8F%B0
-#EXTINF:-1 tvg-name="杭州影视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E6%9D%AD%E5%B7%9E%E5%BD%B1%E8%A7%86.png" group-title="IPTV",杭州影视
-http://192.168.1.4:5000/live?channel=%E6%9D%AD%E5%B7%9E%E5%BD%B1%E8%A7%86
 #EXTINF:-1 tvg-name="松原" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E6%9D%BE%E5%8E%9F.png" group-title="IPTV",松原
 http://192.168.1.4:5000/live?channel=%E6%9D%BE%E5%8E%9F
 #EXTINF:-1 tvg-name="松原公共" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E6%9D%BE%E5%8E%9F%E5%85%AC%E5%85%B1.png" group-title="IPTV",松原公共
@@ -594,12 +612,12 @@ http://192.168.1.4:5000/live?channel=%E6%AD%A6%E6%9C%AF%E4%B8%96%E7%95%8C
 http://192.168.1.4:5000/live?channel=%E6%B0%B8%E5%B7%9E%E5%85%AC%E5%85%B1
 #EXTINF:-1 tvg-name="永州台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E6%B0%B8%E5%B7%9E%E5%8F%B0.png" group-title="IPTV",永州台
 http://192.168.1.4:5000/live?channel=%E6%B0%B8%E5%B7%9E%E5%8F%B0
+#EXTINF:-1 tvg-name="永州综合" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E6%B0%B8%E5%B7%9E%E7%BB%BC%E5%90%88.png" group-title="IPTV",永州综合
+http://192.168.1.4:5000/live?channel=%E6%B0%B8%E5%B7%9E%E7%BB%BC%E5%90%88
 #EXTINF:-1 tvg-name="江苏体育休闲" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E6%B1%9F%E8%8B%8F%E4%BD%93%E8%82%B2%E4%BC%91%E9%97%B2.png" group-title="IPTV",江苏体育休闲
 http://192.168.1.4:5000/live?channel=%E6%B1%9F%E8%8B%8F%E4%BD%93%E8%82%B2%E4%BC%91%E9%97%B2
-#EXTINF:-1 tvg-name="江苏城市" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E6%B1%9F%E8%8B%8F%E5%9F%8E%E5%B8%82.png" group-title="IPTV",江苏城市
-http://192.168.1.4:5000/live?channel=%E6%B1%9F%E8%8B%8F%E5%9F%8E%E5%B8%82
-#EXTINF:-1 tvg-name="江苏综艺" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E6%B1%9F%E8%8B%8F%E7%BB%BC%E8%89%BA.png" group-title="IPTV",江苏综艺
-http://192.168.1.4:5000/live?channel=%E6%B1%9F%E8%8B%8F%E7%BB%BC%E8%89%BA
+#EXTINF:-1 tvg-name="汨罗综合" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E6%B1%A8%E7%BD%97%E7%BB%BC%E5%90%88.png" group-title="IPTV",汨罗综合
+http://192.168.1.4:5000/live?channel=%E6%B1%A8%E7%BD%97%E7%BB%BC%E5%90%88
 #EXTINF:-1 tvg-name="河北经济生活" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E6%B2%B3%E5%8C%97%E7%BB%8F%E6%B5%8E%E7%94%9F%E6%B4%BB.png" group-title="IPTV",河北经济生活
 http://192.168.1.4:5000/live?channel=%E6%B2%B3%E5%8C%97%E7%BB%8F%E6%B5%8E%E7%94%9F%E6%B4%BB
 #EXTINF:-1 tvg-name="河南新闻" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E6%B2%B3%E5%8D%97%E6%96%B0%E9%97%BB.png" group-title="IPTV",河南新闻
@@ -628,10 +646,18 @@ http://192.168.1.4:5000/live?channel=%E6%B5%8B%E8%AF%952
 http://192.168.1.4:5000/live?channel=%E6%B5%8B%E8%AF%953
 #EXTINF:-1 tvg-name="测试5" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E6%B5%8B%E8%AF%955.png" group-title="IPTV",测试5
 http://192.168.1.4:5000/live?channel=%E6%B5%8B%E8%AF%955
-#EXTINF:-1 tvg-name="浙江新闻" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E6%B5%99%E6%B1%9F%E6%96%B0%E9%97%BB.png" group-title="IPTV",浙江新闻
-http://192.168.1.4:5000/live?channel=%E6%B5%99%E6%B1%9F%E6%96%B0%E9%97%BB
-#EXTINF:-1 tvg-name="海看剧场" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E6%B5%B7%E7%9C%8B%E5%89%A7%E5%9C%BA.png" group-title="IPTV",海看剧场
-http://192.168.1.4:5000/live?channel=%E6%B5%B7%E7%9C%8B%E5%89%A7%E5%9C%BA
+#EXTINF:-1 tvg-name="测试一" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E6%B5%8B%E8%AF%95%E4%B8%80.png" group-title="IPTV",测试一
+http://192.168.1.4:5000/live?channel=%E6%B5%8B%E8%AF%95%E4%B8%80
+#EXTINF:-1 tvg-name="测试二" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E6%B5%8B%E8%AF%95%E4%BA%8C.png" group-title="IPTV",测试二
+http://192.168.1.4:5000/live?channel=%E6%B5%8B%E8%AF%95%E4%BA%8C
+#EXTINF:-1 tvg-name="海南公共" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E6%B5%B7%E5%8D%97%E5%85%AC%E5%85%B1.png" group-title="IPTV",海南公共
+http://192.168.1.4:5000/live?channel=%E6%B5%B7%E5%8D%97%E5%85%AC%E5%85%B1
+#EXTINF:-1 tvg-name="海南影视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E6%B5%B7%E5%8D%97%E5%BD%B1%E8%A7%86.png" group-title="IPTV",海南影视
+http://192.168.1.4:5000/live?channel=%E6%B5%B7%E5%8D%97%E5%BD%B1%E8%A7%86
+#EXTINF:-1 tvg-name="海南新闻" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E6%B5%B7%E5%8D%97%E6%96%B0%E9%97%BB.png" group-title="IPTV",海南新闻
+http://192.168.1.4:5000/live?channel=%E6%B5%B7%E5%8D%97%E6%96%B0%E9%97%BB
+#EXTINF:-1 tvg-name="海南综合" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E6%B5%B7%E5%8D%97%E7%BB%BC%E5%90%88.png" group-title="IPTV",海南综合
+http://192.168.1.4:5000/live?channel=%E6%B5%B7%E5%8D%97%E7%BB%BC%E5%90%88
 #EXTINF:-1 tvg-name="海看教育" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E6%B5%B7%E7%9C%8B%E6%95%99%E8%82%B2.png" group-title="IPTV",海看教育
 http://192.168.1.4:5000/live?channel=%E6%B5%B7%E7%9C%8B%E6%95%99%E8%82%B2
 #EXTINF:-1 tvg-name="海看演艺" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E6%B5%B7%E7%9C%8B%E6%BC%94%E8%89%BA.png" group-title="IPTV",海看演艺
@@ -678,18 +704,20 @@ http://192.168.1.4:5000/live?channel=%E6%B9%96%E5%8D%97%E7%BB%8F%E8%A7%86
 http://192.168.1.4:5000/live?channel=%E6%B9%96%E5%8D%97%E9%83%BD%E5%B8%82
 #EXTINF:-1 tvg-name="湘潭台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E6%B9%98%E6%BD%AD%E5%8F%B0.png" group-title="IPTV",湘潭台
 http://192.168.1.4:5000/live?channel=%E6%B9%98%E6%BD%AD%E5%8F%B0
+#EXTINF:-1 tvg-name="湘潭综合" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E6%B9%98%E6%BD%AD%E7%BB%BC%E5%90%88.png" group-title="IPTV",湘潭综合
+http://192.168.1.4:5000/live?channel=%E6%B9%98%E6%BD%AD%E7%BB%BC%E5%90%88
 #EXTINF:-1 tvg-name="湘西公共" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E6%B9%98%E8%A5%BF%E5%85%AC%E5%85%B1.png" group-title="IPTV",湘西公共
 http://192.168.1.4:5000/live?channel=%E6%B9%98%E8%A5%BF%E5%85%AC%E5%85%B1
 #EXTINF:-1 tvg-name="湘西台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E6%B9%98%E8%A5%BF%E5%8F%B0.png" group-title="IPTV",湘西台
 http://192.168.1.4:5000/live?channel=%E6%B9%98%E8%A5%BF%E5%8F%B0
+#EXTINF:-1 tvg-name="湘西综合" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E6%B9%98%E8%A5%BF%E7%BB%BC%E5%90%88.png" group-title="IPTV",湘西综合
+http://192.168.1.4:5000/live?channel=%E6%B9%98%E8%A5%BF%E7%BB%BC%E5%90%88
 #EXTINF:-1 tvg-name="溆浦时政" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E6%BA%86%E6%B5%A6%E6%97%B6%E6%94%BF.png" group-title="IPTV",溆浦时政
 http://192.168.1.4:5000/live?channel=%E6%BA%86%E6%B5%A6%E6%97%B6%E6%94%BF
 #EXTINF:-1 tvg-name="潇湘电影" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E6%BD%87%E6%B9%98%E7%94%B5%E5%BD%B1.png" group-title="IPTV",潇湘电影
 http://192.168.1.4:5000/live?channel=%E6%BD%87%E6%B9%98%E7%94%B5%E5%BD%B1
 #EXTINF:-1 tvg-name="炫动卡通" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E7%82%AB%E5%8A%A8%E5%8D%A1%E9%80%9A.png" group-title="IPTV",炫动卡通
 http://192.168.1.4:5000/live?channel=%E7%82%AB%E5%8A%A8%E5%8D%A1%E9%80%9A
-#EXTINF:-1 tvg-name="烟台公共" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E7%83%9F%E5%8F%B0%E5%85%AC%E5%85%B1.png" group-title="IPTV",烟台公共
-http://192.168.1.4:5000/live?channel=%E7%83%9F%E5%8F%B0%E5%85%AC%E5%85%B1
 #EXTINF:-1 tvg-name="热播剧场" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E7%83%AD%E6%92%AD%E5%89%A7%E5%9C%BA.png" group-title="IPTV",热播剧场
 http://192.168.1.4:5000/live?channel=%E7%83%AD%E6%92%AD%E5%89%A7%E5%9C%BA
 #EXTINF:-1 tvg-name="爱上4K电影" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E7%88%B1%E4%B8%8A4K%E7%94%B5%E5%BD%B1.png" group-title="IPTV",爱上4K电影
@@ -720,6 +748,8 @@ http://192.168.1.4:5000/live?channel=%E7%94%9F%E6%B4%BB%E6%97%B6%E5%B0%9A
 http://192.168.1.4:5000/live?channel=%E7%94%B5%E5%BD%B1
 #EXTINF:-1 tvg-name="电视指南" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E7%94%B5%E8%A7%86%E6%8C%87%E5%8D%97.png" group-title="IPTV",电视指南
 http://192.168.1.4:5000/live?channel=%E7%94%B5%E8%A7%86%E6%8C%87%E5%8D%97
+#EXTINF:-1 tvg-name="益阳综合" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E7%9B%8A%E9%98%B3%E7%BB%BC%E5%90%88.png" group-title="IPTV",益阳综合
+http://192.168.1.4:5000/live?channel=%E7%9B%8A%E9%98%B3%E7%BB%BC%E5%90%88
 #EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E7%9D%9B%E5%BD%A9%E5%B9%BF%E5%9C%BA%E8%88%9E.png" group-title="IPTV",睛彩广场舞
 http://192.168.1.4:5000/live?channel=%E7%9D%9B%E5%BD%A9%E5%B9%BF%E5%9C%BA%E8%88%9E
 #EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E7%9D%9B%E5%BD%A9%E7%AB%9E%E6%8A%80.png" group-title="IPTV",睛彩竞技
@@ -760,6 +790,8 @@ http://192.168.1.4:5000/live?channel=%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1
 http://192.168.1.4:5000/live?channel=%E7%BB%8F%E6%B5%8E%E7%A7%91%E6%95%99
 #EXTINF:-1 tvg-name="绥宁综合" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E7%BB%A5%E5%AE%81%E7%BB%BC%E5%90%88.png" group-title="IPTV",绥宁综合
 http://192.168.1.4:5000/live?channel=%E7%BB%A5%E5%AE%81%E7%BB%BC%E5%90%88
+#EXTINF:-1 tvg-name="网络棋牌" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E7%BD%91%E7%BB%9C%E6%A3%8B%E7%89%8C.png" group-title="IPTV",网络棋牌
+http://192.168.1.4:5000/live?channel=%E7%BD%91%E7%BB%9C%E6%A3%8B%E7%89%8C
 #EXTINF:-1 tvg-name="美人" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E7%BE%8E%E4%BA%BA.png" group-title="IPTV",美人
 http://192.168.1.4:5000/live?channel=%E7%BE%8E%E4%BA%BA
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="IPTV",翡翠台
@@ -772,14 +804,24 @@ http://192.168.1.4:5000/live?channel=%E8%8A%B7%E6%B1%9F%E7%BB%BC%E5%90%88
 http://192.168.1.4:5000/live?channel=%E8%8C%B6
 #EXTINF:-1 tvg-name="荆州综合" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E8%8D%86%E5%B7%9E%E7%BB%BC%E5%90%88.png" group-title="IPTV",荆州综合
 http://192.168.1.4:5000/live?channel=%E8%8D%86%E5%B7%9E%E7%BB%BC%E5%90%88
+#EXTINF:-1 tvg-name="衡南综合" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E8%A1%A1%E5%8D%97%E7%BB%BC%E5%90%88.png" group-title="IPTV",衡南综合
+http://192.168.1.4:5000/live?channel=%E8%A1%A1%E5%8D%97%E7%BB%BC%E5%90%88
 #EXTINF:-1 tvg-name="衡阳公共" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E8%A1%A1%E9%98%B3%E5%85%AC%E5%85%B1.png" group-title="IPTV",衡阳公共
 http://192.168.1.4:5000/live?channel=%E8%A1%A1%E9%98%B3%E5%85%AC%E5%85%B1
 #EXTINF:-1 tvg-name="衡阳台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E8%A1%A1%E9%98%B3%E5%8F%B0.png" group-title="IPTV",衡阳台
 http://192.168.1.4:5000/live?channel=%E8%A1%A1%E9%98%B3%E5%8F%B0
+#EXTINF:-1 tvg-name="衡阳综合" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E8%A1%A1%E9%98%B3%E7%BB%BC%E5%90%88.png" group-title="IPTV",衡阳综合
+http://192.168.1.4:5000/live?channel=%E8%A1%A1%E9%98%B3%E7%BB%BC%E5%90%88
 #EXTINF:-1 tvg-name="谍战剧场" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E8%B0%8D%E6%88%98%E5%89%A7%E5%9C%BA.png" group-title="IPTV",谍战剧场
 http://192.168.1.4:5000/live?channel=%E8%B0%8D%E6%88%98%E5%89%A7%E5%9C%BA
 #EXTINF:-1 tvg-name="财富天下" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E8%B4%A2%E5%AF%8C%E5%A4%A9%E4%B8%8B.png" group-title="IPTV",财富天下
 http://192.168.1.4:5000/live?channel=%E8%B4%A2%E5%AF%8C%E5%A4%A9%E4%B8%8B
+#EXTINF:-1 tvg-name="赤峰影视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E8%B5%A4%E5%B3%B0%E5%BD%B1%E8%A7%86.png" group-title="IPTV",赤峰影视
+http://192.168.1.4:5000/live?channel=%E8%B5%A4%E5%B3%B0%E5%BD%B1%E8%A7%86
+#EXTINF:-1 tvg-name="赤峰新闻综合" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E8%B5%A4%E5%B3%B0%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88.png" group-title="IPTV",赤峰新闻综合
+http://192.168.1.4:5000/live?channel=%E8%B5%A4%E5%B3%B0%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88
+#EXTINF:-1 tvg-name="赤峰经济" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E8%B5%A4%E5%B3%B0%E7%BB%8F%E6%B5%8E.png" group-title="IPTV",赤峰经济
+http://192.168.1.4:5000/live?channel=%E8%B5%A4%E5%B3%B0%E7%BB%8F%E6%B5%8E
 #EXTINF:-1 tvg-name="足球" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E8%B6%B3%E7%90%83.png" group-title="IPTV",足球
 http://192.168.1.4:5000/live?channel=%E8%B6%B3%E7%90%83
 #EXTINF:-1 tvg-name="辰溪综合" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E8%BE%B0%E6%BA%AA%E7%BB%BC%E5%90%88.png" group-title="IPTV",辰溪综合
@@ -796,6 +838,8 @@ http://192.168.1.4:5000/live?channel=%E9%82%B5%E9%98%B3%E7%BB%BC%E5%90%88
 http://192.168.1.4:5000/live?channel=%E9%83%B4%E5%B7%9E%E5%85%AC%E5%85%B1
 #EXTINF:-1 tvg-name="郴州台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E9%83%B4%E5%B7%9E%E5%8F%B0.png" group-title="IPTV",郴州台
 http://192.168.1.4:5000/live?channel=%E9%83%B4%E5%B7%9E%E5%8F%B0
+#EXTINF:-1 tvg-name="郴州综合" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E9%83%B4%E5%B7%9E%E7%BB%BC%E5%90%88.png" group-title="IPTV",郴州综合
+http://192.168.1.4:5000/live?channel=%E9%83%B4%E5%B7%9E%E7%BB%BC%E5%90%88
 #EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E9%83%BD%E5%B8%82%E5%89%A7%E5%9C%BA.png" group-title="IPTV",都市剧场
 http://192.168.1.4:5000/live?channel=%E9%83%BD%E5%B8%82%E5%89%A7%E5%9C%BA
 #EXTINF:-1 tvg-name="都市时尚" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E9%83%BD%E5%B8%82%E6%97%B6%E5%B0%9A.png" group-title="IPTV",都市时尚
@@ -818,10 +862,14 @@ http://192.168.1.4:5000/live?channel=%E9%95%BF%E5%BD%B1
 http://192.168.1.4:5000/live?channel=%E9%95%BF%E6%B2%99
 #EXTINF:-1 tvg-name="长沙政法" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E9%95%BF%E6%B2%99%E6%94%BF%E6%B3%95.png" group-title="IPTV",长沙政法
 http://192.168.1.4:5000/live?channel=%E9%95%BF%E6%B2%99%E6%94%BF%E6%B3%95
+#EXTINF:-1 tvg-name="长沙新闻" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E9%95%BF%E6%B2%99%E6%96%B0%E9%97%BB.png" group-title="IPTV",长沙新闻
+http://192.168.1.4:5000/live?channel=%E9%95%BF%E6%B2%99%E6%96%B0%E9%97%BB
 #EXTINF:-1 tvg-name="长沙综合" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E9%95%BF%E6%B2%99%E7%BB%BC%E5%90%88.png" group-title="IPTV",长沙综合
 http://192.168.1.4:5000/live?channel=%E9%95%BF%E6%B2%99%E7%BB%BC%E5%90%88
 #EXTINF:-1 tvg-name="院景慢直播" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E9%99%A2%E6%99%AF%E6%85%A2%E7%9B%B4%E6%92%AD.png" group-title="IPTV",院景慢直播
 http://192.168.1.4:5000/live?channel=%E9%99%A2%E6%99%AF%E6%85%A2%E7%9B%B4%E6%92%AD
+#EXTINF:-1 tvg-name="隆回综合" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E9%9A%86%E5%9B%9E%E7%BB%BC%E5%90%88.png" group-title="IPTV",隆回综合
+http://192.168.1.4:5000/live?channel=%E9%9A%86%E5%9B%9E%E7%BB%BC%E5%90%88
 #EXTINF:-1 tvg-name="靖州综合" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E9%9D%96%E5%B7%9E%E7%BB%BC%E5%90%88.png" group-title="IPTV",靖州综合
 http://192.168.1.4:5000/live?channel=%E9%9D%96%E5%B7%9E%E7%BB%BC%E5%90%88
 #EXTINF:-1 tvg-name="音乐现场" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E9%9F%B3%E4%B9%90%E7%8E%B0%E5%9C%BA.png" group-title="IPTV",音乐现场
@@ -842,5 +890,3 @@ http://192.168.1.4:5000/live?channel=%E9%A3%8E%E4%BA%91%E9%9F%B3%E4%B9%90
 http://192.168.1.4:5000/live?channel=%E9%AB%98%E5%B0%94%E5%A4%AB
 #EXTINF:-1 tvg-name="高网" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E9%AB%98%E7%BD%91.png" group-title="IPTV",高网
 http://192.168.1.4:5000/live?channel=%E9%AB%98%E7%BD%91
-#EXTINF:-1 tvg-name="齐鲁" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E9%BD%90%E9%B2%81.png" group-title="IPTV",齐鲁
-http://192.168.1.4:5000/live?channel=%E9%BD%90%E9%B2%81
